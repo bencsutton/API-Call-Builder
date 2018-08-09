@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+.input {
+  width:100%;
+}
+
+.col {
+  padding: 5px;
+  margin: 5px;
+}
+
+.row {
+  padding: 5px;
+}
+
+.btn {
+  padding: 5px;
+  margin: 5px;
+}
